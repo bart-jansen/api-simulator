@@ -1,0 +1,7 @@
+{
+	"text-3-large" : {
+		"model": "text-embedding-ada-002",
+		"tokensPerMinute" : 350000
+	}
+
+}
